@@ -1,0 +1,4 @@
+Page size: 4096 bytes
+Minimum application address: 0x00010000
+Maximum application address: 0x7FFEFFFF
+Allocation granularity: 65536 bytes
